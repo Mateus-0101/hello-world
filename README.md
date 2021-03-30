@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi, I am Mateus, and I am currently studying C.
